@@ -1,0 +1,50 @@
+<annotation>
+	<folder>withoutfog</folder>
+	<filename>1140 resized.png</filename>
+	<path>/home/niels/Repositories/Images/NeuralNets/RoadMarkingsDetection/data/training/withoutfog/1140 resized.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centerstrip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>110</ymin>
+			<xmax>306</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sidestripe</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>114</ymin>
+			<xmax>419</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sidestripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>111</ymin>
+			<xmax>237</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
